@@ -11,11 +11,11 @@
 
 ### 🏠 [Homepage](https://github.com/pen9un/douyin-chatgpt-robot)
 
-## 🚀使用方法
+## 🚀使用说明
 
 使用抖音扫码关注体验（如需了解更多，请抖音私信）：
 
-<img src="resource/image/douyin.jpg" alt="douyin" style="zoom:50%;" />
+<img src="resource/image/douyin.jpg" alt="douyin" style="zoom: 25%;" />
 
 ## 🔮抖音自媒体系统
 
@@ -34,6 +34,10 @@
 **抖音视频管理（支持无水印查看下载）：**
 
 <img src="resource/image/douyin_video.png" alt="douyin" style="zoom:50%;" />
+
+## 📖更新日志
+
+- 2023-5-17 支持实时修改设置各抖音账号对话指令角色，回复更智能。
 
 ## 🤝作者
 
